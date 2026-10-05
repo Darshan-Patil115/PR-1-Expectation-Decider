@@ -13,8 +13,7 @@ In this project, I act as a junior data analyst. I use data of **200 students** 
 
 ## 2. Dataset
 
-File: `student_data.csv` (200 rows). The data is **AI-generated (synthetic)**. It was made with Python so that every task can be solved. The code is in `generate_dataset.py`.
-
+File: `student_data.csv` (200 rows). The data is **AI-generated (synthetic)**. It was made with Python so that every task can be solved.
 | Column | Meaning |
 |---|---|
 | student_id | Unique ID of the student |
@@ -64,8 +63,6 @@ Expectation-Decider/
 |-- Expectation_Decider.ipynb        <- practical work (code + markdown + outputs)
 |-- Expectation_Decider_Report.pdf   <- theory, formulas and step-by-step calculations
 |-- student_data.csv                 <- dataset (200 students)
-|-- generate_dataset.py              <- code used to create the dataset
-|-- figures/                         <- charts saved by the notebook
 ```
 
 ## 6. How to Run
@@ -76,16 +73,8 @@ jupyter notebook Expectation_Decider.ipynb
 ```
 Keep `student_data.csv` in the same folder as the notebook.
 
-## 7. Video Explanation
-
-Face + screen video (5 to 10 minutes):
-
-**Video link:** `PASTE YOUR GOOGLE DRIVE / YOUTUBE (UNLISTED) LINK HERE`
-
-File name format: `PR1_YourName_GRID.mp4`
-
-## 8. Tools Used
+## 7. Tools Used
 Python, pandas, NumPy, Matplotlib, matplotlib-venn, SciPy, Jupyter Notebook.
 
 ---
-**Author:** `YOUR NAME` | **GRID:** `YOUR GRID`
+**Author:** `Darshan Patil`
